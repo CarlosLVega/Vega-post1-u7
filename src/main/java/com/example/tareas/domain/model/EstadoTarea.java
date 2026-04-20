@@ -1,4 +1,4 @@
-package domain.model;
+package com.example.tareas.domain.model;
 
 public enum EstadoTarea {
     PENDIENTE,
